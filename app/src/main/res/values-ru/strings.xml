@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="no_rate" />
+    <string name="widget_open_app">text_widget_open_app</string>
+    <string name="status_time_never">text_status_time_never</string>
+    <string name="title_activity_settings">Chips Widget Настройки</string>
+
+    <string name="app_name">Chips Widget</string>
+    <string name="action_settings">Настройки</string>
+    <string name="add_widget">Добавить виджет</string>
+    <string name="appwidget_text">ПРИМЕР</string>
+    <string name="main_title">Что это?</string>
+
+    <string name="main_content_one">Это простейший виджет для Android, который может отображать курс монеты <b>CHIPS</b> (Chips) на основании данных, предоставляемых биржей Cryptopia.
+    Поместите этот виджет на ваш рабочий стол и измените его размер до желаемого. Курс будет обновляться автоматически каждые 30 минут. Помимо этого предусмотрена возможность ручного
+        обновления курса, для этого достаточно тапнуть по строчке с текущим курсом в виджете один раз. Также вы можете разместить на рабочем столе два одинаковых виджета, например,
+        для сравнения текущего и предыдушего курса. Для этого просто добавьте еще один экземпляр виджета на рабочий стол.\n\n
+    Я не профессиональный Android разработчик и фактически это моя первая попытка создания рабочего виджета для Android. Впереди еще много работы по улучшению и оптимизации
+        виджета, однако, даже то что получилось на данный момент вполне рабочее и неплохо смотрится. Если вам понравился виджет вы можете перечислить пару монет на мой
+        Chips кошелек в поддержку проекта:
+    </string>
+    <string name="wallet"><a href="http://chips1.explorer.supernet.org/address/RDeckersiHeHfG9z6AUr41ecWkFCHVv23E">RDeckersiHeHfG9z6AUr41ecWkFCHVv23E</a></string>
+    <string name="main_content_two">Заранее спасибо.\n\n - Тема про <a href="https://bitcointalk.org/index.php?topic=2078449">Chips</a> на Bitcoin Talk\n        - <a href="http://chips1.explorer.supernet.org/">Block Explorer</a>\n        - <a href="https://www.coinexchange.io/market/CHIPS/BTC">Обмен</a> CHIPS/BTC</string>
+</resources>

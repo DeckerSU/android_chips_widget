@@ -1,0 +1,31 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!--
+Refer to App Widget Documentation for margin information
+http://developer.android.com/guide/topics/appwidgets/index.html#CreatingLayout
+    -->
+    <dimen name="widget_margin">8dp</dimen>
+    <dimen name="size_widget_inactive">10sp</dimen>
+    <dimen name="size_widget_rate">25sp</dimen>
+    <dimen name="size_widget_timestamp">10sp</dimen>
+
+    <dimen name="widget_code_text">18sp</dimen>
+    <dimen name="widget_date_bottom_margin">2dp</dimen>
+    <dimen name="widget_flag_height">20dp</dimen>
+    <dimen name="widget_flag_width">28dp</dimen>
+
+    <dimen name="widget_open_app_padding_top">40dp</dimen>
+    <dimen name="widget_rate_top_margin">5dp</dimen>
+    <dimen name="widget_small_height">40dp</dimen>
+    <dimen name="widget_small_width">110dp</dimen>
+    <dimen name="widget_yota_text">28dp</dimen>
+    <dimen name="widget_yota_updated">14dp</dimen>
+
+    <dimen name="margin_right_flag">3dp</dimen>
+    <dimen name="margin_widget_layout">3dp</dimen>
+
+</resources>

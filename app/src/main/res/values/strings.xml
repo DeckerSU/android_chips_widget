@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Chips Widget</string>
+    <string name="action_settings">Settings</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="no_rate" />
+    <string name="widget_open_app">text_widget_open_app</string>
+    <string name="status_time_never">text_status_time_never</string>
+    <string name="title_activity_settings">Chips Widget Settings</string>
+
+
+    <string name="main_title">What\'s this?</string>
+    <string name="main_content_one">This is a simple widget that can display <b>CHIPS</b> (Chips) exchange rates from Cryptopia.\n    Put this widget on your desktop and adjust size. Rates will updates automatically every 30 minutes, if you want to update widget\'s info now - simply\n    click on current rate, info will be updated immediatelly. Also you can place on the same desktop two or more widgets, for example, to see previous and\n    current rates.\n\n\n    I\'m not a professional Android developer and this is my first experience in creating widgets for Android. So, a lot a work ahead. But this very early\n    alpha version of widget is works and looks nice. You can support the developement by transfer some coins to my CHIPS wallet:\n</string>
+    <string name="wallet"><a href="http://chips1.explorer.supernet.org/address/RDeckersiHeHfG9z6AUr41ecWkFCHVv23E">RDeckersiHeHfG9z6AUr41ecWkFCHVv23E</a></string>
+    <string name="main_content_two">Thx in advance.\n\n    <b>Useful links</b>\n\n - <a href="https://bitcointalk.org/index.php?topic=2078449">Chips</a> thread on Bitcoin Talk\n        - <a href="http://chips1.explorer.supernet.org/">Block Explorer</a>\n        - <a href="https://www.coinexchange.io/market/CHIPS/BTC">Exchange</a></string>
+
+</resources>
